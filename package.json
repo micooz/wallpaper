@@ -1,0 +1,34 @@
+{
+  "name": "wallpaper",
+  "version": "1.0.0",
+  "description": "set or get your desktop wallpaper on OSX",
+  "main": "lib/wallpaper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/micooz/wallpaper.git"
+  },
+  "keywords": [
+    "wallpaper",
+    "osx",
+    "windows",
+    "bing"
+  ],
+  "author": {
+    "name": "Micooz",
+    "email": "micooz@hotmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/micooz/wallpaper/issues"
+  },
+  "homepage": "https://github.com/micooz/wallpaper#readme",
+  "dependencies": {
+    "log4js": "^0.6.26",
+    "q": "^1.4.1",
+    "shelljs": "^0.5.3",
+    "sqlite3": "^3.0.10"
+  }
+}
