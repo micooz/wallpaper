@@ -1,5 +1,5 @@
 {
-  "name": "wallpaper",
+  "name": "wallpaper-js",
   "version": "1.0.1",
   "description": "change your desktop wallpaper on OSX, Linux and Windows",
   "main": "lib/wallpaper.js",

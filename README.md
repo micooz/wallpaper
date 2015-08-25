@@ -21,7 +21,7 @@ You can download the latest source files from the [Releases](https://github.com/
 
 If you have had npm installed, you can simply type the command to install wallpaper globally:
 
-    $ npm install -g wallpaper
+    $ npm install -g wallpaper-js
    
 # Usage
 
