@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "change your desktop wallpaper on OSX, Linux and Windows",
   "main": "lib/wallpaper.js",
+  "bin": {
+    "wallpaper": "lib/cli-wrapper.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,6 +17,7 @@
     "wallpaper",
     "osx",
     "windows",
+    "linux",
     "bing"
   ],
   "author": {
