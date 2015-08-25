@@ -1,7 +1,7 @@
 {
   "name": "wallpaper",
   "version": "1.0.0",
-  "description": "set or get your desktop wallpaper on OSX",
+  "description": "change your desktop wallpaper on OSX, Linux and Windows",
   "main": "lib/wallpaper.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -27,8 +27,10 @@
   "homepage": "https://github.com/micooz/wallpaper#readme",
   "dependencies": {
     "log4js": "^0.6.26",
+    "nomnom": "^1.8.1",
     "q": "^1.4.1",
     "shelljs": "^0.5.3",
-    "sqlite3": "^3.0.10"
+    "sqlite3": "^3.0.10",
+    "urllib": "^2.4.0"
   }
 }
