@@ -4,7 +4,7 @@
   "description": "change your desktop wallpaper on OSX, Linux and Windows",
   "main": "lib/wallpaper.js",
   "bin": {
-    "wallpaper": "lib/cli-wrapper.js"
+    "wallpaper": "lib/cli-warpper.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
