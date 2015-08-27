@@ -75,6 +75,8 @@ int main(int argc, const char*argv[]){
 
   // Set Wallpaper
   HRESULT hr = SetDesktopWallpaper(pszFile, style);
+  delete[] pszFile;
+  pszFile = NULL;
   if (SUCCEEDED(hr)) {
     return 0;
   }
