@@ -30,11 +30,11 @@
   },
   "homepage": "https://github.com/micooz/wallpaper#readme",
   "dependencies": {
-    "log4js": "^0.6.26",
+    "log4js": "^0.6.27",
     "nomnom": "^1.8.1",
     "q": "^1.4.1",
     "shelljs": "^0.5.3",
-    "sqlite3": "^3.0.10",
+    "sqlite3": "^3.1.0",
     "urllib": "^2.4.0"
   }
 }
