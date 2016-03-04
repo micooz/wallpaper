@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 #http://askubuntu.com/questions/414422/command-to-change-the-wallpaper-in-xubuntu
 
 connectedOutputs=$(xrandr | grep " connected" | sed -e "s/\([A-Z0-9]\+\) connected.*/\1/")

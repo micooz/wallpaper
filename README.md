@@ -11,7 +11,7 @@ wallpaper is a cross-platform javascript application that can change your wallpa
 
 wallpaper supports custom image source. The **lib/sources/bing.js** was provided by default while you can custom your source from other websites, see **lib/sources/your.js** for more information.
 
-# Installtion
+# Installation
 
 ## Download
 
@@ -50,7 +50,6 @@ Unfortunately, there are many desktop environment like GNOME, KDE on Linux. So t
 
 # Acknowledgement
 
-* [q](https://github.com/kriskowal/q)
 * [shelljs](http://github.com/arturadib/shelljs)
 * [log4js](https://github.com/nomiddlename/log4js-node)
 * [nomnom](http://github.com/harthur/nomnom)

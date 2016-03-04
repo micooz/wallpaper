@@ -1,10 +1,10 @@
 {
   "name": "wallpaper-js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "change your desktop wallpaper on OSX, Linux and Windows",
   "main": "lib/wallpaper.js",
   "bin": {
-    "wallpaper": "lib/cli-warpper.js"
+    "wallpaper": "lib/cli-wrapper.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
