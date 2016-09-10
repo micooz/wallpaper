@@ -1,6 +1,11 @@
 # wallpaper
 
-wallpaper is a cross-platform javascript application that can change your wallpaper with a simple command line:
+[![npm](https://img.shields.io/npm/v/wallpaper-js.svg?maxAge=2592000?style=flat-square)](https://www.npmjs.com/package/wallpaper-js)
+[![npm](https://img.shields.io/npm/l/wallpaper.svg?maxAge=2592000?style=flat-square)](https://github.com/micooz/wallpaper/blob/master/LICENSE)
+[![David](https://img.shields.io/david/micooz/wallpaper.svg?maxAge=2592000?style=flat-square)]()
+[![%e2%9d%a4](https://img.shields.io/badge/made%20with-%e2%9d%a4-ff69b4.svg?style=flat-square)](https://apporz.com)
+
+> wallpaper is a cross-platform javascript application that can change your wallpaper with a simple command line:
 
     # OS X / Linux
     $ wallpaper --source bing
